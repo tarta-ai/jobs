@@ -1,0 +1,3969 @@
+{
+  "tokens": [
+    {
+      "token": "acts",
+      "start_offset": 0,
+      "end_offset": 4,
+      "type": "<ALPHANUM>",
+      "position": 0
+    },
+    {
+      "token": "acts ___",
+      "start_offset": 0,
+      "end_offset": 11,
+      "type": "shingle",
+      "position": 0,
+      "positionLength": 2
+    },
+    {
+      "token": "___ active",
+      "start_offset": 11,
+      "end_offset": 17,
+      "type": "shingle",
+      "position": 1,
+      "positionLength": 2
+    },
+    {
+      "token": "active",
+      "start_offset": 11,
+      "end_offset": 17,
+      "type": "<ALPHANUM>",
+      "position": 2
+    },
+    {
+      "token": "active member",
+      "start_offset": 11,
+      "end_offset": 24,
+      "type": "shingle",
+      "position": 2,
+      "positionLength": 2
+    },
+    {
+      "token": "member",
+      "start_offset": 18,
+      "end_offset": 24,
+      "type": "<ALPHANUM>",
+      "position": 3
+    },
+    {
+      "token": "member ___",
+      "start_offset": 18,
+      "end_offset": 32,
+      "type": "shingle",
+      "position": 3,
+      "positionLength": 2
+    },
+    {
+      "token": "___ facility",
+      "start_offset": 32,
+      "end_offset": 40,
+      "type": "shingle",
+      "position": 4,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 32,
+      "end_offset": 40,
+      "type": "<ALPHANUM>",
+      "position": 5
+    },
+    {
+      "token": "facility leadership",
+      "start_offset": 32,
+      "end_offset": 51,
+      "type": "shingle",
+      "position": 5,
+      "positionLength": 2
+    },
+    {
+      "token": "leadership",
+      "start_offset": 41,
+      "end_offset": 51,
+      "type": "<ALPHANUM>",
+      "position": 6
+    },
+    {
+      "token": "leadership team",
+      "start_offset": 41,
+      "end_offset": 56,
+      "type": "shingle",
+      "position": 6,
+      "positionLength": 2
+    },
+    {
+      "token": "team",
+      "start_offset": 52,
+      "end_offset": 56,
+      "type": "<ALPHANUM>",
+      "position": 7
+    },
+    {
+      "token": "team sharing",
+      "start_offset": 52,
+      "end_offset": 65,
+      "type": "shingle",
+      "position": 7,
+      "positionLength": 2
+    },
+    {
+      "token": "sharing",
+      "start_offset": 58,
+      "end_offset": 65,
+      "type": "<ALPHANUM>",
+      "position": 8
+    },
+    {
+      "token": "sharing knowledge",
+      "start_offset": 58,
+      "end_offset": 75,
+      "type": "shingle",
+      "position": 8,
+      "positionLength": 2
+    },
+    {
+      "token": "knowledge",
+      "start_offset": 66,
+      "end_offset": 75,
+      "type": "<ALPHANUM>",
+      "position": 9
+    },
+    {
+      "token": "knowledge expertise",
+      "start_offset": 66,
+      "end_offset": 86,
+      "type": "shingle",
+      "position": 9,
+      "positionLength": 2
+    },
+    {
+      "token": "expertise",
+      "start_offset": 77,
+      "end_offset": 86,
+      "type": "<ALPHANUM>",
+      "position": 10
+    },
+    {
+      "token": "expertise ___",
+      "start_offset": 77,
+      "end_offset": 92,
+      "type": "shingle",
+      "position": 10,
+      "positionLength": 2
+    },
+    {
+      "token": "___ coaching",
+      "start_offset": 92,
+      "end_offset": 100,
+      "type": "shingle",
+      "position": 11,
+      "positionLength": 2
+    },
+    {
+      "token": "coaching",
+      "start_offset": 92,
+      "end_offset": 100,
+      "type": "<ALPHANUM>",
+      "position": 12
+    },
+    {
+      "token": "coaching ___",
+      "start_offset": 92,
+      "end_offset": 104,
+      "type": "shingle",
+      "position": 12,
+      "positionLength": 2
+    },
+    {
+      "token": "___ develop",
+      "start_offset": 104,
+      "end_offset": 111,
+      "type": "shingle",
+      "position": 13,
+      "positionLength": 2
+    },
+    {
+      "token": "develop",
+      "start_offset": 104,
+      "end_offset": 111,
+      "type": "<ALPHANUM>",
+      "position": 14
+    },
+    {
+      "token": "develop others",
+      "start_offset": 104,
+      "end_offset": 118,
+      "type": "shingle",
+      "position": 14,
+      "positionLength": 2
+    },
+    {
+      "token": "others",
+      "start_offset": 112,
+      "end_offset": 118,
+      "type": "<ALPHANUM>",
+      "position": 15
+    },
+    {
+      "token": "others leveraging",
+      "start_offset": 112,
+      "end_offset": 130,
+      "type": "shingle",
+      "position": 15,
+      "positionLength": 2
+    },
+    {
+      "token": "leveraging",
+      "start_offset": 120,
+      "end_offset": 130,
+      "type": "<ALPHANUM>",
+      "position": 16
+    },
+    {
+      "token": "leveraging involvement",
+      "start_offset": 120,
+      "end_offset": 142,
+      "type": "shingle",
+      "position": 16,
+      "positionLength": 2
+    },
+    {
+      "token": "involvement",
+      "start_offset": 131,
+      "end_offset": 142,
+      "type": "<ALPHANUM>",
+      "position": 17
+    },
+    {
+      "token": "involvement ___",
+      "start_offset": 131,
+      "end_offset": 146,
+      "type": "shingle",
+      "position": 17,
+      "positionLength": 2
+    },
+    {
+      "token": "___ operations",
+      "start_offset": 146,
+      "end_offset": 156,
+      "type": "shingle",
+      "position": 18,
+      "positionLength": 2
+    },
+    {
+      "token": "operations",
+      "start_offset": 146,
+      "end_offset": 156,
+      "type": "<ALPHANUM>",
+      "position": 19
+    },
+    {
+      "token": "operations programs",
+      "start_offset": 146,
+      "end_offset": 165,
+      "type": "shingle",
+      "position": 19,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 157,
+      "end_offset": 165,
+      "type": "<ALPHANUM>",
+      "position": 20
+    },
+    {
+      "token": "programs ___",
+      "start_offset": 157,
+      "end_offset": 169,
+      "type": "shingle",
+      "position": 20,
+      "positionLength": 2
+    },
+    {
+      "token": "___ drive",
+      "start_offset": 169,
+      "end_offset": 174,
+      "type": "shingle",
+      "position": 21,
+      "positionLength": 2
+    },
+    {
+      "token": "drive",
+      "start_offset": 169,
+      "end_offset": 174,
+      "type": "<ALPHANUM>",
+      "position": 22
+    },
+    {
+      "token": "drive change",
+      "start_offset": 169,
+      "end_offset": 181,
+      "type": "shingle",
+      "position": 22,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 175,
+      "end_offset": 181,
+      "type": "<ALPHANUM>",
+      "position": 23
+    },
+    {
+      "token": "change initiatives",
+      "start_offset": 175,
+      "end_offset": 193,
+      "type": "shingle",
+      "position": 23,
+      "positionLength": 2
+    },
+    {
+      "token": "initiatives",
+      "start_offset": 182,
+      "end_offset": 193,
+      "type": "<ALPHANUM>",
+      "position": 24
+    },
+    {
+      "token": "initiatives through",
+      "start_offset": 182,
+      "end_offset": 201,
+      "type": "shingle",
+      "position": 24,
+      "positionLength": 2
+    },
+    {
+      "token": "through",
+      "start_offset": 194,
+      "end_offset": 201,
+      "type": "<ALPHANUM>",
+      "position": 25
+    },
+    {
+      "token": "through modeling",
+      "start_offset": 194,
+      "end_offset": 210,
+      "type": "shingle",
+      "position": 25,
+      "positionLength": 2
+    },
+    {
+      "token": "modeling",
+      "start_offset": 202,
+      "end_offset": 210,
+      "type": "<ALPHANUM>",
+      "position": 26
+    },
+    {
+      "token": "modeling appropriate",
+      "start_offset": 202,
+      "end_offset": 222,
+      "type": "shingle",
+      "position": 26,
+      "positionLength": 2
+    },
+    {
+      "token": "appropriate",
+      "start_offset": 211,
+      "end_offset": 222,
+      "type": "<ALPHANUM>",
+      "position": 27
+    },
+    {
+      "token": "appropriate change",
+      "start_offset": 211,
+      "end_offset": 229,
+      "type": "shingle",
+      "position": 27,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 223,
+      "end_offset": 229,
+      "type": "<ALPHANUM>",
+      "position": 28
+    },
+    {
+      "token": "change management",
+      "start_offset": 223,
+      "end_offset": 240,
+      "type": "shingle",
+      "position": 28,
+      "positionLength": 2
+    },
+    {
+      "token": "management",
+      "start_offset": 230,
+      "end_offset": 240,
+      "type": "<ALPHANUM>",
+      "position": 29
+    },
+    {
+      "token": "management behaviors",
+      "start_offset": 230,
+      "end_offset": 250,
+      "type": "shingle",
+      "position": 29,
+      "positionLength": 2
+    },
+    {
+      "token": "behaviors",
+      "start_offset": 241,
+      "end_offset": 250,
+      "type": "<ALPHANUM>",
+      "position": 30
+    },
+    {
+      "token": "behaviors ___",
+      "start_offset": 241,
+      "end_offset": 256,
+      "type": "shingle",
+      "position": 30,
+      "positionLength": 2
+    },
+    {
+      "token": "___ engaging",
+      "start_offset": 256,
+      "end_offset": 264,
+      "type": "shingle",
+      "position": 31,
+      "positionLength": 2
+    },
+    {
+      "token": "engaging",
+      "start_offset": 256,
+      "end_offset": 264,
+      "type": "<ALPHANUM>",
+      "position": 32
+    },
+    {
+      "token": "engaging program",
+      "start_offset": 256,
+      "end_offset": 272,
+      "type": "shingle",
+      "position": 32,
+      "positionLength": 2
+    },
+    {
+      "token": "program",
+      "start_offset": 265,
+      "end_offset": 272,
+      "type": "<ALPHANUM>",
+      "position": 33
+    },
+    {
+      "token": "program teams",
+      "start_offset": 265,
+      "end_offset": 278,
+      "type": "shingle",
+      "position": 33,
+      "positionLength": 2
+    },
+    {
+      "token": "teams",
+      "start_offset": 273,
+      "end_offset": 278,
+      "type": "<ALPHANUM>",
+      "position": 34
+    },
+    {
+      "token": "teams ___",
+      "start_offset": 273,
+      "end_offset": 286,
+      "type": "shingle",
+      "position": 34,
+      "positionLength": 2
+    },
+    {
+      "token": "___ change",
+      "start_offset": 286,
+      "end_offset": 292,
+      "type": "shingle",
+      "position": 35,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 286,
+      "end_offset": 292,
+      "type": "<ALPHANUM>",
+      "position": 36
+    },
+    {
+      "token": "change management",
+      "start_offset": 286,
+      "end_offset": 303,
+      "type": "shingle",
+      "position": 36,
+      "positionLength": 2
+    },
+    {
+      "token": "management",
+      "start_offset": 293,
+      "end_offset": 303,
+      "type": "<ALPHANUM>",
+      "position": 37
+    },
+    {
+      "token": "management process",
+      "start_offset": 293,
+      "end_offset": 311,
+      "type": "shingle",
+      "position": 37,
+      "positionLength": 2
+    },
+    {
+      "token": "process",
+      "start_offset": 304,
+      "end_offset": 311,
+      "type": "<ALPHANUM>",
+      "position": 38
+    },
+    {
+      "token": "process coordinates",
+      "start_offset": 304,
+      "end_offset": 324,
+      "type": "shingle",
+      "position": 38,
+      "positionLength": 2
+    },
+    {
+      "token": "coordinates",
+      "start_offset": 313,
+      "end_offset": 324,
+      "type": "<ALPHANUM>",
+      "position": 39
+    },
+    {
+      "token": "coordinates training",
+      "start_offset": 313,
+      "end_offset": 333,
+      "type": "shingle",
+      "position": 39,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 325,
+      "end_offset": 333,
+      "type": "<ALPHANUM>",
+      "position": 40
+    },
+    {
+      "token": "training programs",
+      "start_offset": 325,
+      "end_offset": 342,
+      "type": "shingle",
+      "position": 40,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 334,
+      "end_offset": 342,
+      "type": "<ALPHANUM>",
+      "position": 41
+    },
+    {
+      "token": "programs utilizing",
+      "start_offset": 334,
+      "end_offset": 353,
+      "type": "shingle",
+      "position": 41,
+      "positionLength": 2
+    },
+    {
+      "token": "utilizing",
+      "start_offset": 344,
+      "end_offset": 353,
+      "type": "<ALPHANUM>",
+      "position": 42
+    },
+    {
+      "token": "utilizing ___",
+      "start_offset": 344,
+      "end_offset": 358,
+      "type": "shingle",
+      "position": 42,
+      "positionLength": 2
+    },
+    {
+      "token": "___ maintaining",
+      "start_offset": 358,
+      "end_offset": 369,
+      "type": "shingle",
+      "position": 43,
+      "positionLength": 2
+    },
+    {
+      "token": "maintaining",
+      "start_offset": 358,
+      "end_offset": 369,
+      "type": "<ALPHANUM>",
+      "position": 44
+    },
+    {
+      "token": "maintaining training",
+      "start_offset": 358,
+      "end_offset": 378,
+      "type": "shingle",
+      "position": 44,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 370,
+      "end_offset": 378,
+      "type": "<ALPHANUM>",
+      "position": 45
+    },
+    {
+      "token": "training materials",
+      "start_offset": 370,
+      "end_offset": 388,
+      "type": "shingle",
+      "position": 45,
+      "positionLength": 2
+    },
+    {
+      "token": "materials",
+      "start_offset": 379,
+      "end_offset": 388,
+      "type": "<ALPHANUM>",
+      "position": 46
+    },
+    {
+      "token": "materials leveraging",
+      "start_offset": 379,
+      "end_offset": 400,
+      "type": "shingle",
+      "position": 46,
+      "positionLength": 2
+    },
+    {
+      "token": "leveraging",
+      "start_offset": 390,
+      "end_offset": 400,
+      "type": "<ALPHANUM>",
+      "position": 47
+    },
+    {
+      "token": "leveraging associate",
+      "start_offset": 390,
+      "end_offset": 410,
+      "type": "shingle",
+      "position": 47,
+      "positionLength": 2
+    },
+    {
+      "token": "associate",
+      "start_offset": 401,
+      "end_offset": 410,
+      "type": "<ALPHANUM>",
+      "position": 48
+    },
+    {
+      "token": "associate expertise",
+      "start_offset": 401,
+      "end_offset": 420,
+      "type": "shingle",
+      "position": 48,
+      "positionLength": 2
+    },
+    {
+      "token": "expertise",
+      "start_offset": 411,
+      "end_offset": 420,
+      "type": "<ALPHANUM>",
+      "position": 49
+    },
+    {
+      "token": "expertise ___",
+      "start_offset": 411,
+      "end_offset": 425,
+      "type": "shingle",
+      "position": 49,
+      "positionLength": 2
+    },
+    {
+      "token": "___ resources",
+      "start_offset": 425,
+      "end_offset": 434,
+      "type": "shingle",
+      "position": 50,
+      "positionLength": 2
+    },
+    {
+      "token": "resources",
+      "start_offset": 425,
+      "end_offset": 434,
+      "type": "<ALPHANUM>",
+      "position": 51
+    },
+    {
+      "token": "resources ___",
+      "start_offset": 425,
+      "end_offset": 438,
+      "type": "shingle",
+      "position": 51,
+      "positionLength": 2
+    },
+    {
+      "token": "___ assist",
+      "start_offset": 438,
+      "end_offset": 444,
+      "type": "shingle",
+      "position": 52,
+      "positionLength": 2
+    },
+    {
+      "token": "assist",
+      "start_offset": 438,
+      "end_offset": 444,
+      "type": "<ALPHANUM>",
+      "position": 53
+    },
+    {
+      "token": "assist ___",
+      "start_offset": 438,
+      "end_offset": 452,
+      "type": "shingle",
+      "position": 53,
+      "positionLength": 2
+    },
+    {
+      "token": "___ facilitation",
+      "start_offset": 452,
+      "end_offset": 464,
+      "type": "shingle",
+      "position": 54,
+      "positionLength": 2
+    },
+    {
+      "token": "facilitation",
+      "start_offset": 452,
+      "end_offset": 464,
+      "type": "<ALPHANUM>",
+      "position": 55
+    },
+    {
+      "token": "facilitation ___",
+      "start_offset": 452,
+      "end_offset": 468,
+      "type": "shingle",
+      "position": 55,
+      "positionLength": 2
+    },
+    {
+      "token": "___ training",
+      "start_offset": 468,
+      "end_offset": 476,
+      "type": "shingle",
+      "position": 56,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 468,
+      "end_offset": 476,
+      "type": "<ALPHANUM>",
+      "position": 57
+    },
+    {
+      "token": "training ___",
+      "start_offset": 468,
+      "end_offset": 484,
+      "type": "shingle",
+      "position": 57,
+      "positionLength": 2
+    },
+    {
+      "token": "___ facility",
+      "start_offset": 484,
+      "end_offset": 492,
+      "type": "shingle",
+      "position": 58,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 484,
+      "end_offset": 492,
+      "type": "<ALPHANUM>",
+      "position": 59
+    },
+    {
+      "token": "facility supporting",
+      "start_offset": 484,
+      "end_offset": 504,
+      "type": "shingle",
+      "position": 59,
+      "positionLength": 2
+    },
+    {
+      "token": "supporting",
+      "start_offset": 494,
+      "end_offset": 504,
+      "type": "<ALPHANUM>",
+      "position": 60
+    },
+    {
+      "token": "supporting quality",
+      "start_offset": 494,
+      "end_offset": 512,
+      "type": "shingle",
+      "position": 60,
+      "positionLength": 2
+    },
+    {
+      "token": "quality",
+      "start_offset": 505,
+      "end_offset": 512,
+      "type": "<ALPHANUM>",
+      "position": 61
+    },
+    {
+      "token": "quality safety",
+      "start_offset": 505,
+      "end_offset": 520,
+      "type": "shingle",
+      "position": 61,
+      "positionLength": 2
+    },
+    {
+      "token": "safety",
+      "start_offset": 514,
+      "end_offset": 520,
+      "type": "<ALPHANUM>",
+      "position": 62
+    },
+    {
+      "token": "safety ___",
+      "start_offset": 514,
+      "end_offset": 526,
+      "type": "shingle",
+      "position": 62,
+      "positionLength": 2
+    },
+    {
+      "token": "___ human",
+      "start_offset": 526,
+      "end_offset": 531,
+      "type": "shingle",
+      "position": 63,
+      "positionLength": 2
+    },
+    {
+      "token": "human",
+      "start_offset": 526,
+      "end_offset": 531,
+      "type": "<ALPHANUM>",
+      "position": 64
+    },
+    {
+      "token": "human resources",
+      "start_offset": 526,
+      "end_offset": 541,
+      "type": "shingle",
+      "position": 64,
+      "positionLength": 2
+    },
+    {
+      "token": "resources",
+      "start_offset": 532,
+      "end_offset": 541,
+      "type": "<ALPHANUM>",
+      "position": 65
+    },
+    {
+      "token": "resources teams",
+      "start_offset": 532,
+      "end_offset": 547,
+      "type": "shingle",
+      "position": 65,
+      "positionLength": 2
+    },
+    {
+      "token": "teams",
+      "start_offset": 542,
+      "end_offset": 547,
+      "type": "<ALPHANUM>",
+      "position": 66
+    },
+    {
+      "token": "teams ___",
+      "start_offset": 542,
+      "end_offset": 555,
+      "type": "shingle",
+      "position": 66,
+      "positionLength": 2
+    },
+    {
+      "token": "___ meeting",
+      "start_offset": 555,
+      "end_offset": 562,
+      "type": "shingle",
+      "position": 67,
+      "positionLength": 2
+    },
+    {
+      "token": "meeting",
+      "start_offset": 555,
+      "end_offset": 562,
+      "type": "<ALPHANUM>",
+      "position": 68
+    },
+    {
+      "token": "meeting training",
+      "start_offset": 555,
+      "end_offset": 571,
+      "type": "shingle",
+      "position": 68,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 563,
+      "end_offset": 571,
+      "type": "<ALPHANUM>",
+      "position": 69
+    },
+    {
+      "token": "training requirements",
+      "start_offset": 563,
+      "end_offset": 584,
+      "type": "shingle",
+      "position": 69,
+      "positionLength": 2
+    },
+    {
+      "token": "requirements",
+      "start_offset": 572,
+      "end_offset": 584,
+      "type": "<ALPHANUM>",
+      "position": 70
+    },
+    {
+      "token": "requirements coordinates",
+      "start_offset": 572,
+      "end_offset": 597,
+      "type": "shingle",
+      "position": 70,
+      "positionLength": 2
+    },
+    {
+      "token": "coordinates",
+      "start_offset": 586,
+      "end_offset": 597,
+      "type": "<ALPHANUM>",
+      "position": 71
+    },
+    {
+      "token": "coordinates ___",
+      "start_offset": 586,
+      "end_offset": 603,
+      "type": "shingle",
+      "position": 71,
+      "positionLength": 2
+    },
+    {
+      "token": "___ facility",
+      "start_offset": 603,
+      "end_offset": 611,
+      "type": "shingle",
+      "position": 72,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 603,
+      "end_offset": 611,
+      "type": "<ALPHANUM>",
+      "position": 73
+    },
+    {
+      "token": "facility level",
+      "start_offset": 603,
+      "end_offset": 617,
+      "type": "shingle",
+      "position": 73,
+      "positionLength": 2
+    },
+    {
+      "token": "level",
+      "start_offset": 612,
+      "end_offset": 617,
+      "type": "<ALPHANUM>",
+      "position": 74
+    },
+    {
+      "token": "level ___",
+      "start_offset": 612,
+      "end_offset": 622,
+      "type": "shingle",
+      "position": 74,
+      "positionLength": 2
+    },
+    {
+      "token": "___ home",
+      "start_offset": 622,
+      "end_offset": 626,
+      "type": "shingle",
+      "position": 75,
+      "positionLength": 2
+    },
+    {
+      "token": "home",
+      "start_offset": 622,
+      "end_offset": 626,
+      "type": "<ALPHANUM>",
+      "position": 76
+    },
+    {
+      "token": "home office",
+      "start_offset": 622,
+      "end_offset": 633,
+      "type": "shingle",
+      "position": 76,
+      "positionLength": 2
+    },
+    {
+      "token": "office",
+      "start_offset": 627,
+      "end_offset": 633,
+      "type": "<ALPHANUM>",
+      "position": 77
+    },
+    {
+      "token": "office level",
+      "start_offset": 627,
+      "end_offset": 639,
+      "type": "shingle",
+      "position": 77,
+      "positionLength": 2
+    },
+    {
+      "token": "level",
+      "start_offset": 634,
+      "end_offset": 639,
+      "type": "<ALPHANUM>",
+      "position": 78
+    },
+    {
+      "token": "level associates",
+      "start_offset": 634,
+      "end_offset": 650,
+      "type": "shingle",
+      "position": 78,
+      "positionLength": 2
+    },
+    {
+      "token": "associates",
+      "start_offset": 640,
+      "end_offset": 650,
+      "type": "<ALPHANUM>",
+      "position": 79
+    },
+    {
+      "token": "associates ___",
+      "start_offset": 640,
+      "end_offset": 655,
+      "type": "shingle",
+      "position": 79,
+      "positionLength": 2
+    },
+    {
+      "token": "___ leadership",
+      "start_offset": 655,
+      "end_offset": 665,
+      "type": "shingle",
+      "position": 80,
+      "positionLength": 2
+    },
+    {
+      "token": "leadership",
+      "start_offset": 655,
+      "end_offset": 665,
+      "type": "<ALPHANUM>",
+      "position": 81
+    },
+    {
+      "token": "leadership ___",
+      "start_offset": 655,
+      "end_offset": 669,
+      "type": "shingle",
+      "position": 81,
+      "positionLength": 2
+    },
+    {
+      "token": "___ implement",
+      "start_offset": 669,
+      "end_offset": 678,
+      "type": "shingle",
+      "position": 82,
+      "positionLength": 2
+    },
+    {
+      "token": "implement",
+      "start_offset": 669,
+      "end_offset": 678,
+      "type": "<ALPHANUM>",
+      "position": 83
+    },
+    {
+      "token": "implement corporate",
+      "start_offset": 669,
+      "end_offset": 688,
+      "type": "shingle",
+      "position": 83,
+      "positionLength": 2
+    },
+    {
+      "token": "corporate",
+      "start_offset": 679,
+      "end_offset": 688,
+      "type": "<ALPHANUM>",
+      "position": 84
+    },
+    {
+      "token": "corporate initiatives",
+      "start_offset": 679,
+      "end_offset": 700,
+      "type": "shingle",
+      "position": 84,
+      "positionLength": 2
+    },
+    {
+      "token": "initiatives",
+      "start_offset": 689,
+      "end_offset": 700,
+      "type": "<ALPHANUM>",
+      "position": 85
+    },
+    {
+      "token": "initiatives coordinates",
+      "start_offset": 689,
+      "end_offset": 713,
+      "type": "shingle",
+      "position": 85,
+      "positionLength": 2
+    },
+    {
+      "token": "coordinates",
+      "start_offset": 702,
+      "end_offset": 713,
+      "type": "<ALPHANUM>",
+      "position": 86
+    },
+    {
+      "token": "coordinates completes",
+      "start_offset": 702,
+      "end_offset": 724,
+      "type": "shingle",
+      "position": 86,
+      "positionLength": 2
+    },
+    {
+      "token": "completes",
+      "start_offset": 715,
+      "end_offset": 724,
+      "type": "<ALPHANUM>",
+      "position": 87
+    },
+    {
+      "token": "completes ___",
+      "start_offset": 715,
+      "end_offset": 730,
+      "type": "shingle",
+      "position": 87,
+      "positionLength": 2
+    },
+    {
+      "token": "___ oversees",
+      "start_offset": 730,
+      "end_offset": 738,
+      "type": "shingle",
+      "position": 88,
+      "positionLength": 2
+    },
+    {
+      "token": "oversees",
+      "start_offset": 730,
+      "end_offset": 738,
+      "type": "<ALPHANUM>",
+      "position": 89
+    },
+    {
+      "token": "oversees job",
+      "start_offset": 730,
+      "end_offset": 742,
+      "type": "shingle",
+      "position": 89,
+      "positionLength": 2
+    },
+    {
+      "token": "job",
+      "start_offset": 739,
+      "end_offset": 742,
+      "type": "<ALPHANUM>",
+      "position": 90
+    },
+    {
+      "token": "job related",
+      "start_offset": 739,
+      "end_offset": 750,
+      "type": "shingle",
+      "position": 90,
+      "positionLength": 2
+    },
+    {
+      "token": "related",
+      "start_offset": 743,
+      "end_offset": 750,
+      "type": "<ALPHANUM>",
+      "position": 91
+    },
+    {
+      "token": "related activities",
+      "start_offset": 743,
+      "end_offset": 761,
+      "type": "shingle",
+      "position": 91,
+      "positionLength": 2
+    },
+    {
+      "token": "activities",
+      "start_offset": 751,
+      "end_offset": 761,
+      "type": "<ALPHANUM>",
+      "position": 92
+    },
+    {
+      "token": "activities ___",
+      "start_offset": 751,
+      "end_offset": 766,
+      "type": "shingle",
+      "position": 92,
+      "positionLength": 2
+    },
+    {
+      "token": "___ assignments",
+      "start_offset": 766,
+      "end_offset": 777,
+      "type": "shingle",
+      "position": 93,
+      "positionLength": 2
+    },
+    {
+      "token": "assignments",
+      "start_offset": 766,
+      "end_offset": 777,
+      "type": "<ALPHANUM>",
+      "position": 94
+    },
+    {
+      "token": "assignments ensures",
+      "start_offset": 766,
+      "end_offset": 785,
+      "type": "shingle",
+      "position": 94,
+      "positionLength": 2
+    },
+    {
+      "token": "ensures",
+      "start_offset": 778,
+      "end_offset": 785,
+      "type": "<ALPHANUM>",
+      "position": 95
+    },
+    {
+      "token": "ensures compliance",
+      "start_offset": 778,
+      "end_offset": 796,
+      "type": "shingle",
+      "position": 95,
+      "positionLength": 2
+    },
+    {
+      "token": "compliance",
+      "start_offset": 786,
+      "end_offset": 796,
+      "type": "<ALPHANUM>",
+      "position": 96
+    },
+    {
+      "token": "compliance ___",
+      "start_offset": 786,
+      "end_offset": 802,
+      "type": "shingle",
+      "position": 96,
+      "positionLength": 2
+    },
+    {
+      "token": "___ company",
+      "start_offset": 802,
+      "end_offset": 809,
+      "type": "shingle",
+      "position": 97,
+      "positionLength": 2
+    },
+    {
+      "token": "company",
+      "start_offset": 802,
+      "end_offset": 809,
+      "type": "<ALPHANUM>",
+      "position": 98
+    },
+    {
+      "token": "company policies",
+      "start_offset": 802,
+      "end_offset": 818,
+      "type": "shingle",
+      "position": 98,
+      "positionLength": 2
+    },
+    {
+      "token": "policies",
+      "start_offset": 810,
+      "end_offset": 818,
+      "type": "<ALPHANUM>",
+      "position": 99
+    },
+    {
+      "token": "policies ___",
+      "start_offset": 810,
+      "end_offset": 823,
+      "type": "shingle",
+      "position": 99,
+      "positionLength": 2
+    },
+    {
+      "token": "___ procedures",
+      "start_offset": 823,
+      "end_offset": 833,
+      "type": "shingle",
+      "position": 100,
+      "positionLength": 2
+    },
+    {
+      "token": "procedures",
+      "start_offset": 823,
+      "end_offset": 833,
+      "type": "<ALPHANUM>",
+      "position": 101
+    },
+    {
+      "token": "procedures ___",
+      "start_offset": 823,
+      "end_offset": 838,
+      "type": "shingle",
+      "position": 101,
+      "positionLength": 2
+    },
+    {
+      "token": "___ supports",
+      "start_offset": 838,
+      "end_offset": 846,
+      "type": "shingle",
+      "position": 102,
+      "positionLength": 2
+    },
+    {
+      "token": "supports",
+      "start_offset": 838,
+      "end_offset": 846,
+      "type": "<ALPHANUM>",
+      "position": 103
+    },
+    {
+      "token": "supports company",
+      "start_offset": 838,
+      "end_offset": 854,
+      "type": "shingle",
+      "position": 103,
+      "positionLength": 2
+    },
+    {
+      "token": "company",
+      "start_offset": 847,
+      "end_offset": 854,
+      "type": "<ALPHANUM>",
+      "position": 104
+    },
+    {
+      "token": "company mission",
+      "start_offset": 847,
+      "end_offset": 862,
+      "type": "shingle",
+      "position": 104,
+      "positionLength": 2
+    },
+    {
+      "token": "mission",
+      "start_offset": 855,
+      "end_offset": 862,
+      "type": "<ALPHANUM>",
+      "position": 105
+    },
+    {
+      "token": "mission values",
+      "start_offset": 855,
+      "end_offset": 870,
+      "type": "shingle",
+      "position": 105,
+      "positionLength": 2
+    },
+    {
+      "token": "values",
+      "start_offset": 864,
+      "end_offset": 870,
+      "type": "<ALPHANUM>",
+      "position": 106
+    },
+    {
+      "token": "values ___",
+      "start_offset": 864,
+      "end_offset": 876,
+      "type": "shingle",
+      "position": 106,
+      "positionLength": 2
+    },
+    {
+      "token": "___ standards",
+      "start_offset": 876,
+      "end_offset": 885,
+      "type": "shingle",
+      "position": 107,
+      "positionLength": 2
+    },
+    {
+      "token": "standards",
+      "start_offset": 876,
+      "end_offset": 885,
+      "type": "<ALPHANUM>",
+      "position": 108
+    },
+    {
+      "token": "standards ___",
+      "start_offset": 876,
+      "end_offset": 889,
+      "type": "shingle",
+      "position": 108,
+      "positionLength": 2
+    },
+    {
+      "token": "___ ethics",
+      "start_offset": 889,
+      "end_offset": 895,
+      "type": "shingle",
+      "position": 109,
+      "positionLength": 2
+    },
+    {
+      "token": "ethics",
+      "start_offset": 889,
+      "end_offset": 895,
+      "type": "<ALPHANUM>",
+      "position": 110
+    },
+    {
+      "token": "ethics ___",
+      "start_offset": 889,
+      "end_offset": 900,
+      "type": "shingle",
+      "position": 110,
+      "positionLength": 2
+    },
+    {
+      "token": "___ integrity",
+      "start_offset": 900,
+      "end_offset": 909,
+      "type": "shingle",
+      "position": 111,
+      "positionLength": 2
+    },
+    {
+      "token": "integrity",
+      "start_offset": 900,
+      "end_offset": 909,
+      "type": "<ALPHANUM>",
+      "position": 112
+    },
+    {
+      "token": "integrity guides",
+      "start_offset": 900,
+      "end_offset": 916,
+      "type": "shingle",
+      "position": 112,
+      "positionLength": 2
+    },
+    {
+      "token": "guides",
+      "start_offset": 910,
+      "end_offset": 916,
+      "type": "<ALPHANUM>",
+      "position": 113
+    },
+    {
+      "token": "guides ___",
+      "start_offset": 910,
+      "end_offset": 921,
+      "type": "shingle",
+      "position": 113,
+      "positionLength": 2
+    },
+    {
+      "token": "___ executes",
+      "start_offset": 921,
+      "end_offset": 929,
+      "type": "shingle",
+      "position": 114,
+      "positionLength": 2
+    },
+    {
+      "token": "executes",
+      "start_offset": 921,
+      "end_offset": 929,
+      "type": "<ALPHANUM>",
+      "position": 115
+    },
+    {
+      "token": "executes ___",
+      "start_offset": 921,
+      "end_offset": 934,
+      "type": "shingle",
+      "position": 115,
+      "positionLength": 2
+    },
+    {
+      "token": "___ leadership",
+      "start_offset": 934,
+      "end_offset": 944,
+      "type": "shingle",
+      "position": 116,
+      "positionLength": 2
+    },
+    {
+      "token": "leadership",
+      "start_offset": 934,
+      "end_offset": 944,
+      "type": "<ALPHANUM>",
+      "position": 117
+    },
+    {
+      "token": "leadership development",
+      "start_offset": 934,
+      "end_offset": 956,
+      "type": "shingle",
+      "position": 117,
+      "positionLength": 2
+    },
+    {
+      "token": "development",
+      "start_offset": 945,
+      "end_offset": 956,
+      "type": "<ALPHANUM>",
+      "position": 118
+    },
+    {
+      "token": "development process",
+      "start_offset": 945,
+      "end_offset": 964,
+      "type": "shingle",
+      "position": 118,
+      "positionLength": 2
+    },
+    {
+      "token": "process",
+      "start_offset": 957,
+      "end_offset": 964,
+      "type": "<ALPHANUM>",
+      "position": 119
+    },
+    {
+      "token": "process across",
+      "start_offset": 957,
+      "end_offset": 971,
+      "type": "shingle",
+      "position": 119,
+      "positionLength": 2
+    },
+    {
+      "token": "across",
+      "start_offset": 965,
+      "end_offset": 971,
+      "type": "<ALPHANUM>",
+      "position": 120
+    },
+    {
+      "token": "across ___",
+      "start_offset": 965,
+      "end_offset": 976,
+      "type": "shingle",
+      "position": 120,
+      "positionLength": 2
+    },
+    {
+      "token": "___ facility",
+      "start_offset": 976,
+      "end_offset": 984,
+      "type": "shingle",
+      "position": 121,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 976,
+      "end_offset": 984,
+      "type": "<ALPHANUM>",
+      "position": 122
+    },
+    {
+      "token": "facility managing",
+      "start_offset": 976,
+      "end_offset": 994,
+      "type": "shingle",
+      "position": 122,
+      "positionLength": 2
+    },
+    {
+      "token": "managing",
+      "start_offset": 986,
+      "end_offset": 994,
+      "type": "<ALPHANUM>",
+      "position": 123
+    },
+    {
+      "token": "managing ___",
+      "start_offset": 986,
+      "end_offset": 999,
+      "type": "shingle",
+      "position": 123,
+      "positionLength": 2
+    },
+    {
+      "token": "___ coordinating",
+      "start_offset": 999,
+      "end_offset": 1011,
+      "type": "shingle",
+      "position": 124,
+      "positionLength": 2
+    },
+    {
+      "token": "coordinating",
+      "start_offset": 999,
+      "end_offset": 1011,
+      "type": "<ALPHANUM>",
+      "position": 125
+    },
+    {
+      "token": "coordinating ___",
+      "start_offset": 999,
+      "end_offset": 1016,
+      "type": "shingle",
+      "position": 125,
+      "positionLength": 2
+    },
+    {
+      "token": "___ hourly",
+      "start_offset": 1016,
+      "end_offset": 1022,
+      "type": "shingle",
+      "position": 126,
+      "positionLength": 2
+    },
+    {
+      "token": "hourly",
+      "start_offset": 1016,
+      "end_offset": 1022,
+      "type": "<ALPHANUM>",
+      "position": 127
+    },
+    {
+      "token": "hourly associate",
+      "start_offset": 1016,
+      "end_offset": 1032,
+      "type": "shingle",
+      "position": 127,
+      "positionLength": 2
+    },
+    {
+      "token": "associate",
+      "start_offset": 1023,
+      "end_offset": 1032,
+      "type": "<ALPHANUM>",
+      "position": 128
+    },
+    {
+      "token": "associate training",
+      "start_offset": 1023,
+      "end_offset": 1041,
+      "type": "shingle",
+      "position": 128,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1033,
+      "end_offset": 1041,
+      "type": "<ALPHANUM>",
+      "position": 129
+    },
+    {
+      "token": "training programs",
+      "start_offset": 1033,
+      "end_offset": 1050,
+      "type": "shingle",
+      "position": 129,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 1042,
+      "end_offset": 1050,
+      "type": "<ALPHANUM>",
+      "position": 130
+    },
+    {
+      "token": "programs ___",
+      "start_offset": 1042,
+      "end_offset": 1056,
+      "type": "shingle",
+      "position": 130,
+      "positionLength": 2
+    },
+    {
+      "token": "___ example",
+      "start_offset": 1056,
+      "end_offset": 1063,
+      "type": "shingle",
+      "position": 131,
+      "positionLength": 2
+    },
+    {
+      "token": "example",
+      "start_offset": 1056,
+      "end_offset": 1063,
+      "type": "<ALPHANUM>",
+      "position": 132
+    },
+    {
+      "token": "example lead",
+      "start_offset": 1056,
+      "end_offset": 1069,
+      "type": "shingle",
+      "position": 132,
+      "positionLength": 2
+    },
+    {
+      "token": "lead",
+      "start_offset": 1065,
+      "end_offset": 1069,
+      "type": "<ALPHANUM>",
+      "position": 133
+    },
+    {
+      "token": "lead program",
+      "start_offset": 1065,
+      "end_offset": 1077,
+      "type": "shingle",
+      "position": 133,
+      "positionLength": 2
+    },
+    {
+      "token": "program",
+      "start_offset": 1070,
+      "end_offset": 1077,
+      "type": "<ALPHANUM>",
+      "position": 134
+    },
+    {
+      "token": "program assessing",
+      "start_offset": 1070,
+      "end_offset": 1089,
+      "type": "shingle",
+      "position": 134,
+      "positionLength": 2
+    },
+    {
+      "token": "assessing",
+      "start_offset": 1080,
+      "end_offset": 1089,
+      "type": "<ALPHANUM>",
+      "position": 135
+    },
+    {
+      "token": "assessing ___",
+      "start_offset": 1080,
+      "end_offset": 1094,
+      "type": "shingle",
+      "position": 135,
+      "positionLength": 2
+    },
+    {
+      "token": "___ calibrating",
+      "start_offset": 1094,
+      "end_offset": 1105,
+      "type": "shingle",
+      "position": 136,
+      "positionLength": 2
+    },
+    {
+      "token": "calibrating",
+      "start_offset": 1094,
+      "end_offset": 1105,
+      "type": "<ALPHANUM>",
+      "position": 137
+    },
+    {
+      "token": "calibrating training",
+      "start_offset": 1094,
+      "end_offset": 1114,
+      "type": "shingle",
+      "position": 137,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1106,
+      "end_offset": 1114,
+      "type": "<ALPHANUM>",
+      "position": 138
+    },
+    {
+      "token": "training programs",
+      "start_offset": 1106,
+      "end_offset": 1123,
+      "type": "shingle",
+      "position": 138,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 1115,
+      "end_offset": 1123,
+      "type": "<ALPHANUM>",
+      "position": 139
+    },
+    {
+      "token": "programs ___",
+      "start_offset": 1115,
+      "end_offset": 1127,
+      "type": "shingle",
+      "position": 139,
+      "positionLength": 2
+    },
+    {
+      "token": "___ determine",
+      "start_offset": 1127,
+      "end_offset": 1136,
+      "type": "shingle",
+      "position": 140,
+      "positionLength": 2
+    },
+    {
+      "token": "determine",
+      "start_offset": 1127,
+      "end_offset": 1136,
+      "type": "<ALPHANUM>",
+      "position": 141
+    },
+    {
+      "token": "determine training",
+      "start_offset": 1127,
+      "end_offset": 1145,
+      "type": "shingle",
+      "position": 141,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1137,
+      "end_offset": 1145,
+      "type": "<ALPHANUM>",
+      "position": 142
+    },
+    {
+      "token": "training effectiveness",
+      "start_offset": 1137,
+      "end_offset": 1159,
+      "type": "shingle",
+      "position": 142,
+      "positionLength": 2
+    },
+    {
+      "token": "effectiveness",
+      "start_offset": 1146,
+      "end_offset": 1159,
+      "type": "<ALPHANUM>",
+      "position": 143
+    },
+    {
+      "token": "effectiveness ensuring",
+      "start_offset": 1146,
+      "end_offset": 1169,
+      "type": "shingle",
+      "position": 143,
+      "positionLength": 2
+    },
+    {
+      "token": "ensuring",
+      "start_offset": 1161,
+      "end_offset": 1169,
+      "type": "<ALPHANUM>",
+      "position": 144
+    },
+    {
+      "token": "ensuring required",
+      "start_offset": 1161,
+      "end_offset": 1178,
+      "type": "shingle",
+      "position": 144,
+      "positionLength": 2
+    },
+    {
+      "token": "required",
+      "start_offset": 1170,
+      "end_offset": 1178,
+      "type": "<ALPHANUM>",
+      "position": 145
+    },
+    {
+      "token": "required training",
+      "start_offset": 1170,
+      "end_offset": 1187,
+      "type": "shingle",
+      "position": 145,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1179,
+      "end_offset": 1187,
+      "type": "<ALPHANUM>",
+      "position": 146
+    },
+    {
+      "token": "training ___",
+      "start_offset": 1179,
+      "end_offset": 1191,
+      "type": "shingle",
+      "position": 146,
+      "positionLength": 2
+    },
+    {
+      "token": "___ tracked",
+      "start_offset": 1191,
+      "end_offset": 1198,
+      "type": "shingle",
+      "position": 147,
+      "positionLength": 2
+    },
+    {
+      "token": "tracked",
+      "start_offset": 1191,
+      "end_offset": 1198,
+      "type": "<ALPHANUM>",
+      "position": 148
+    },
+    {
+      "token": "tracked ___",
+      "start_offset": 1191,
+      "end_offset": 1203,
+      "type": "shingle",
+      "position": 148,
+      "positionLength": 2
+    },
+    {
+      "token": "___ scheduled",
+      "start_offset": 1203,
+      "end_offset": 1212,
+      "type": "shingle",
+      "position": 149,
+      "positionLength": 2
+    },
+    {
+      "token": "scheduled",
+      "start_offset": 1203,
+      "end_offset": 1212,
+      "type": "<ALPHANUM>",
+      "position": 150
+    },
+    {
+      "token": "scheduled working",
+      "start_offset": 1203,
+      "end_offset": 1221,
+      "type": "shingle",
+      "position": 150,
+      "positionLength": 2
+    },
+    {
+      "token": "working",
+      "start_offset": 1214,
+      "end_offset": 1221,
+      "type": "<ALPHANUM>",
+      "position": 151
+    },
+    {
+      "token": "working ___",
+      "start_offset": 1214,
+      "end_offset": 1231,
+      "type": "shingle",
+      "position": 151,
+      "positionLength": 2
+    },
+    {
+      "token": "___ implementation",
+      "start_offset": 1231,
+      "end_offset": 1245,
+      "type": "shingle",
+      "position": 152,
+      "positionLength": 2
+    },
+    {
+      "token": "implementation",
+      "start_offset": 1231,
+      "end_offset": 1245,
+      "type": "<ALPHANUM>",
+      "position": 153
+    },
+    {
+      "token": "implementation managers",
+      "start_offset": 1231,
+      "end_offset": 1254,
+      "type": "shingle",
+      "position": 153,
+      "positionLength": 2
+    },
+    {
+      "token": "managers",
+      "start_offset": 1246,
+      "end_offset": 1254,
+      "type": "<ALPHANUM>",
+      "position": 154
+    },
+    {
+      "token": "managers ___",
+      "start_offset": 1246,
+      "end_offset": 1258,
+      "type": "shingle",
+      "position": 154,
+      "positionLength": 2
+    },
+    {
+      "token": "___ ensure",
+      "start_offset": 1258,
+      "end_offset": 1264,
+      "type": "shingle",
+      "position": 155,
+      "positionLength": 2
+    },
+    {
+      "token": "ensure",
+      "start_offset": 1258,
+      "end_offset": 1264,
+      "type": "<ALPHANUM>",
+      "position": 156
+    },
+    {
+      "token": "ensure ___",
+      "start_offset": 1258,
+      "end_offset": 1269,
+      "type": "shingle",
+      "position": 156,
+      "positionLength": 2
+    },
+    {
+      "token": "___ overall",
+      "start_offset": 1269,
+      "end_offset": 1276,
+      "type": "shingle",
+      "position": 157,
+      "positionLength": 2
+    },
+    {
+      "token": "overall",
+      "start_offset": 1269,
+      "end_offset": 1276,
+      "type": "<ALPHANUM>",
+      "position": 158
+    },
+    {
+      "token": "overall training",
+      "start_offset": 1269,
+      "end_offset": 1285,
+      "type": "shingle",
+      "position": 158,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1277,
+      "end_offset": 1285,
+      "type": "<ALPHANUM>",
+      "position": 159
+    },
+    {
+      "token": "training strategy",
+      "start_offset": 1277,
+      "end_offset": 1294,
+      "type": "shingle",
+      "position": 159,
+      "positionLength": 2
+    },
+    {
+      "token": "strategy",
+      "start_offset": 1286,
+      "end_offset": 1294,
+      "type": "<ALPHANUM>",
+      "position": 160
+    },
+    {
+      "token": "strategy ___",
+      "start_offset": 1286,
+      "end_offset": 1298,
+      "type": "shingle",
+      "position": 160,
+      "positionLength": 2
+    },
+    {
+      "token": "___ delivered",
+      "start_offset": 1298,
+      "end_offset": 1307,
+      "type": "shingle",
+      "position": 161,
+      "positionLength": 2
+    },
+    {
+      "token": "delivered",
+      "start_offset": 1298,
+      "end_offset": 1307,
+      "type": "<ALPHANUM>",
+      "position": 162
+    },
+    {
+      "token": "delivered implements",
+      "start_offset": 1298,
+      "end_offset": 1319,
+      "type": "shingle",
+      "position": 162,
+      "positionLength": 2
+    },
+    {
+      "token": "implements",
+      "start_offset": 1309,
+      "end_offset": 1319,
+      "type": "<ALPHANUM>",
+      "position": 163
+    },
+    {
+      "token": "implements training",
+      "start_offset": 1309,
+      "end_offset": 1328,
+      "type": "shingle",
+      "position": 163,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1320,
+      "end_offset": 1328,
+      "type": "<ALPHANUM>",
+      "position": 164
+    },
+    {
+      "token": "training programs",
+      "start_offset": 1320,
+      "end_offset": 1337,
+      "type": "shingle",
+      "position": 164,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 1329,
+      "end_offset": 1337,
+      "type": "<ALPHANUM>",
+      "position": 165
+    },
+    {
+      "token": "programs ___",
+      "start_offset": 1329,
+      "end_offset": 1345,
+      "type": "shingle",
+      "position": 165,
+      "positionLength": 2
+    },
+    {
+      "token": "___ facility",
+      "start_offset": 1345,
+      "end_offset": 1353,
+      "type": "shingle",
+      "position": 166,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 1345,
+      "end_offset": 1353,
+      "type": "<ALPHANUM>",
+      "position": 167
+    },
+    {
+      "token": "facility level",
+      "start_offset": 1345,
+      "end_offset": 1359,
+      "type": "shingle",
+      "position": 167,
+      "positionLength": 2
+    },
+    {
+      "token": "level",
+      "start_offset": 1354,
+      "end_offset": 1359,
+      "type": "<ALPHANUM>",
+      "position": 168
+    },
+    {
+      "token": "level participates",
+      "start_offset": 1354,
+      "end_offset": 1373,
+      "type": "shingle",
+      "position": 168,
+      "positionLength": 2
+    },
+    {
+      "token": "participates",
+      "start_offset": 1361,
+      "end_offset": 1373,
+      "type": "<ALPHANUM>",
+      "position": 169
+    },
+    {
+      "token": "participates ___",
+      "start_offset": 1361,
+      "end_offset": 1379,
+      "type": "shingle",
+      "position": 169,
+      "positionLength": 2
+    },
+    {
+      "token": "___ member",
+      "start_offset": 1379,
+      "end_offset": 1385,
+      "type": "shingle",
+      "position": 170,
+      "positionLength": 2
+    },
+    {
+      "token": "member",
+      "start_offset": 1379,
+      "end_offset": 1385,
+      "type": "<ALPHANUM>",
+      "position": 171
+    },
+    {
+      "token": "member ___",
+      "start_offset": 1379,
+      "end_offset": 1393,
+      "type": "shingle",
+      "position": 171,
+      "positionLength": 2
+    },
+    {
+      "token": "___ functional",
+      "start_offset": 1393,
+      "end_offset": 1403,
+      "type": "shingle",
+      "position": 172,
+      "positionLength": 2
+    },
+    {
+      "token": "functional",
+      "start_offset": 1393,
+      "end_offset": 1403,
+      "type": "<ALPHANUM>",
+      "position": 173
+    },
+    {
+      "token": "functional divisional",
+      "start_offset": 1393,
+      "end_offset": 1414,
+      "type": "shingle",
+      "position": 173,
+      "positionLength": 2
+    },
+    {
+      "token": "divisional",
+      "start_offset": 1404,
+      "end_offset": 1414,
+      "type": "<ALPHANUM>",
+      "position": 174
+    },
+    {
+      "token": "divisional training",
+      "start_offset": 1404,
+      "end_offset": 1423,
+      "type": "shingle",
+      "position": 174,
+      "positionLength": 2
+    },
+    {
+      "token": "training",
+      "start_offset": 1415,
+      "end_offset": 1423,
+      "type": "<ALPHANUM>",
+      "position": 175
+    },
+    {
+      "token": "training network",
+      "start_offset": 1415,
+      "end_offset": 1431,
+      "type": "shingle",
+      "position": 175,
+      "positionLength": 2
+    },
+    {
+      "token": "network",
+      "start_offset": 1424,
+      "end_offset": 1431,
+      "type": "<ALPHANUM>",
+      "position": 176
+    },
+    {
+      "token": "network ___",
+      "start_offset": 1424,
+      "end_offset": 1437,
+      "type": "shingle",
+      "position": 176,
+      "positionLength": 2
+    },
+    {
+      "token": "___ other",
+      "start_offset": 1437,
+      "end_offset": 1442,
+      "type": "shingle",
+      "position": 177,
+      "positionLength": 2
+    },
+    {
+      "token": "other",
+      "start_offset": 1437,
+      "end_offset": 1442,
+      "type": "<ALPHANUM>",
+      "position": 178
+    },
+    {
+      "token": "other facilities",
+      "start_offset": 1437,
+      "end_offset": 1453,
+      "type": "shingle",
+      "position": 178,
+      "positionLength": 2
+    },
+    {
+      "token": "facilities",
+      "start_offset": 1443,
+      "end_offset": 1453,
+      "type": "<ALPHANUM>",
+      "position": 179
+    },
+    {
+      "token": "facilities ___",
+      "start_offset": 1443,
+      "end_offset": 1457,
+      "type": "shingle",
+      "position": 179,
+      "positionLength": 2
+    },
+    {
+      "token": "___ determine",
+      "start_offset": 1457,
+      "end_offset": 1466,
+      "type": "shingle",
+      "position": 180,
+      "positionLength": 2
+    },
+    {
+      "token": "determine",
+      "start_offset": 1457,
+      "end_offset": 1466,
+      "type": "<ALPHANUM>",
+      "position": 181
+    },
+    {
+      "token": "determine current",
+      "start_offset": 1457,
+      "end_offset": 1474,
+      "type": "shingle",
+      "position": 181,
+      "positionLength": 2
+    },
+    {
+      "token": "current",
+      "start_offset": 1467,
+      "end_offset": 1474,
+      "type": "<ALPHANUM>",
+      "position": 182
+    },
+    {
+      "token": "current best",
+      "start_offset": 1467,
+      "end_offset": 1479,
+      "type": "shingle",
+      "position": 182,
+      "positionLength": 2
+    },
+    {
+      "token": "best",
+      "start_offset": 1475,
+      "end_offset": 1479,
+      "type": "<ALPHANUM>",
+      "position": 183
+    },
+    {
+      "token": "best practices",
+      "start_offset": 1475,
+      "end_offset": 1489,
+      "type": "shingle",
+      "position": 183,
+      "positionLength": 2
+    },
+    {
+      "token": "practices",
+      "start_offset": 1480,
+      "end_offset": 1489,
+      "type": "<ALPHANUM>",
+      "position": 184
+    },
+    {
+      "token": "practices ___",
+      "start_offset": 1480,
+      "end_offset": 1494,
+      "type": "shingle",
+      "position": 184,
+      "positionLength": 2
+    },
+    {
+      "token": "___ share",
+      "start_offset": 1494,
+      "end_offset": 1499,
+      "type": "shingle",
+      "position": 185,
+      "positionLength": 2
+    },
+    {
+      "token": "share",
+      "start_offset": 1494,
+      "end_offset": 1499,
+      "type": "<ALPHANUM>",
+      "position": 186
+    },
+    {
+      "token": "share learnings",
+      "start_offset": 1494,
+      "end_offset": 1509,
+      "type": "shingle",
+      "position": 186,
+      "positionLength": 2
+    },
+    {
+      "token": "learnings",
+      "start_offset": 1500,
+      "end_offset": 1509,
+      "type": "<ALPHANUM>",
+      "position": 187
+    },
+    {
+      "token": "learnings manages",
+      "start_offset": 1500,
+      "end_offset": 1517,
+      "type": "shingle",
+      "position": 187,
+      "positionLength": 2
+    },
+    {
+      "token": "manages",
+      "start_offset": 1510,
+      "end_offset": 1517,
+      "type": "<ALPHANUM>",
+      "position": 188
+    },
+    {
+      "token": "manages execution",
+      "start_offset": 1510,
+      "end_offset": 1527,
+      "type": "shingle",
+      "position": 188,
+      "positionLength": 2
+    },
+    {
+      "token": "execution",
+      "start_offset": 1518,
+      "end_offset": 1527,
+      "type": "<ALPHANUM>",
+      "position": 189
+    },
+    {
+      "token": "execution ___",
+      "start_offset": 1518,
+      "end_offset": 1532,
+      "type": "shingle",
+      "position": 189,
+      "positionLength": 2
+    },
+    {
+      "token": "___ quality",
+      "start_offset": 1532,
+      "end_offset": 1539,
+      "type": "shingle",
+      "position": 190,
+      "positionLength": 2
+    },
+    {
+      "token": "quality",
+      "start_offset": 1532,
+      "end_offset": 1539,
+      "type": "<ALPHANUM>",
+      "position": 191
+    },
+    {
+      "token": "quality ___",
+      "start_offset": 1532,
+      "end_offset": 1543,
+      "type": "shingle",
+      "position": 191,
+      "positionLength": 2
+    },
+    {
+      "token": "___ delivery",
+      "start_offset": 1543,
+      "end_offset": 1551,
+      "type": "shingle",
+      "position": 192,
+      "positionLength": 2
+    },
+    {
+      "token": "delivery",
+      "start_offset": 1543,
+      "end_offset": 1551,
+      "type": "<ALPHANUM>",
+      "position": 193
+    },
+    {
+      "token": "delivery across",
+      "start_offset": 1543,
+      "end_offset": 1558,
+      "type": "shingle",
+      "position": 193,
+      "positionLength": 2
+    },
+    {
+      "token": "across",
+      "start_offset": 1552,
+      "end_offset": 1558,
+      "type": "<ALPHANUM>",
+      "position": 194
+    },
+    {
+      "token": "across ___",
+      "start_offset": 1552,
+      "end_offset": 1563,
+      "type": "shingle",
+      "position": 194,
+      "positionLength": 2
+    },
+    {
+      "token": "___ change",
+      "start_offset": 1563,
+      "end_offset": 1569,
+      "type": "shingle",
+      "position": 195,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1563,
+      "end_offset": 1569,
+      "type": "<ALPHANUM>",
+      "position": 196
+    },
+    {
+      "token": "change programs",
+      "start_offset": 1563,
+      "end_offset": 1578,
+      "type": "shingle",
+      "position": 196,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 1570,
+      "end_offset": 1578,
+      "type": "<ALPHANUM>",
+      "position": 197
+    },
+    {
+      "token": "programs ___",
+      "start_offset": 1570,
+      "end_offset": 1582,
+      "type": "shingle",
+      "position": 197,
+      "positionLength": 2
+    },
+    {
+      "token": "___ assigned",
+      "start_offset": 1582,
+      "end_offset": 1590,
+      "type": "shingle",
+      "position": 198,
+      "positionLength": 2
+    },
+    {
+      "token": "assigned",
+      "start_offset": 1582,
+      "end_offset": 1590,
+      "type": "<ALPHANUM>",
+      "position": 199
+    },
+    {
+      "token": "assigned incorporating",
+      "start_offset": 1582,
+      "end_offset": 1605,
+      "type": "shingle",
+      "position": 199,
+      "positionLength": 2
+    },
+    {
+      "token": "incorporating",
+      "start_offset": 1592,
+      "end_offset": 1605,
+      "type": "<ALPHANUM>",
+      "position": 200
+    },
+    {
+      "token": "incorporating ___",
+      "start_offset": 1592,
+      "end_offset": 1610,
+      "type": "shingle",
+      "position": 200,
+      "positionLength": 2
+    },
+    {
+      "token": "___ initial",
+      "start_offset": 1610,
+      "end_offset": 1617,
+      "type": "shingle",
+      "position": 201,
+      "positionLength": 2
+    },
+    {
+      "token": "initial",
+      "start_offset": 1610,
+      "end_offset": 1617,
+      "type": "<ALPHANUM>",
+      "position": 202
+    },
+    {
+      "token": "initial change",
+      "start_offset": 1610,
+      "end_offset": 1624,
+      "type": "shingle",
+      "position": 202,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1618,
+      "end_offset": 1624,
+      "type": "<ALPHANUM>",
+      "position": 203
+    },
+    {
+      "token": "change impact",
+      "start_offset": 1618,
+      "end_offset": 1631,
+      "type": "shingle",
+      "position": 203,
+      "positionLength": 2
+    },
+    {
+      "token": "impact",
+      "start_offset": 1625,
+      "end_offset": 1631,
+      "type": "<ALPHANUM>",
+      "position": 204
+    },
+    {
+      "token": "impact assessment",
+      "start_offset": 1625,
+      "end_offset": 1642,
+      "type": "shingle",
+      "position": 204,
+      "positionLength": 2
+    },
+    {
+      "token": "assessment",
+      "start_offset": 1632,
+      "end_offset": 1642,
+      "type": "<ALPHANUM>",
+      "position": 205
+    },
+    {
+      "token": "assessment results",
+      "start_offset": 1632,
+      "end_offset": 1650,
+      "type": "shingle",
+      "position": 205,
+      "positionLength": 2
+    },
+    {
+      "token": "results",
+      "start_offset": 1643,
+      "end_offset": 1650,
+      "type": "<ALPHANUM>",
+      "position": 206
+    },
+    {
+      "token": "results ___",
+      "start_offset": 1643,
+      "end_offset": 1656,
+      "type": "shingle",
+      "position": 206,
+      "positionLength": 2
+    },
+    {
+      "token": "___ program",
+      "start_offset": 1656,
+      "end_offset": 1663,
+      "type": "shingle",
+      "position": 207,
+      "positionLength": 2
+    },
+    {
+      "token": "program",
+      "start_offset": 1656,
+      "end_offset": 1663,
+      "type": "<ALPHANUM>",
+      "position": 208
+    },
+    {
+      "token": "program delivery",
+      "start_offset": 1656,
+      "end_offset": 1672,
+      "type": "shingle",
+      "position": 208,
+      "positionLength": 2
+    },
+    {
+      "token": "delivery",
+      "start_offset": 1664,
+      "end_offset": 1672,
+      "type": "<ALPHANUM>",
+      "position": 209
+    },
+    {
+      "token": "delivery plans",
+      "start_offset": 1664,
+      "end_offset": 1678,
+      "type": "shingle",
+      "position": 209,
+      "positionLength": 2
+    },
+    {
+      "token": "plans",
+      "start_offset": 1673,
+      "end_offset": 1678,
+      "type": "<ALPHANUM>",
+      "position": 210
+    },
+    {
+      "token": "plans ensuring",
+      "start_offset": 1673,
+      "end_offset": 1688,
+      "type": "shingle",
+      "position": 210,
+      "positionLength": 2
+    },
+    {
+      "token": "ensuring",
+      "start_offset": 1680,
+      "end_offset": 1688,
+      "type": "<ALPHANUM>",
+      "position": 211
+    },
+    {
+      "token": "ensuring stakeholder",
+      "start_offset": 1680,
+      "end_offset": 1700,
+      "type": "shingle",
+      "position": 211,
+      "positionLength": 2
+    },
+    {
+      "token": "stakeholder",
+      "start_offset": 1689,
+      "end_offset": 1700,
+      "type": "<ALPHANUM>",
+      "position": 212
+    },
+    {
+      "token": "stakeholder alignment",
+      "start_offset": 1689,
+      "end_offset": 1710,
+      "type": "shingle",
+      "position": 212,
+      "positionLength": 2
+    },
+    {
+      "token": "alignment",
+      "start_offset": 1701,
+      "end_offset": 1710,
+      "type": "<ALPHANUM>",
+      "position": 213
+    },
+    {
+      "token": "alignment communicating",
+      "start_offset": 1701,
+      "end_offset": 1725,
+      "type": "shingle",
+      "position": 213,
+      "positionLength": 2
+    },
+    {
+      "token": "communicating",
+      "start_offset": 1712,
+      "end_offset": 1725,
+      "type": "<ALPHANUM>",
+      "position": 214
+    },
+    {
+      "token": "communicating change",
+      "start_offset": 1712,
+      "end_offset": 1732,
+      "type": "shingle",
+      "position": 214,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1726,
+      "end_offset": 1732,
+      "type": "<ALPHANUM>",
+      "position": 215
+    },
+    {
+      "token": "change initiatives",
+      "start_offset": 1726,
+      "end_offset": 1744,
+      "type": "shingle",
+      "position": 215,
+      "positionLength": 2
+    },
+    {
+      "token": "initiatives",
+      "start_offset": 1733,
+      "end_offset": 1744,
+      "type": "<ALPHANUM>",
+      "position": 216
+    },
+    {
+      "token": "initiatives ___",
+      "start_offset": 1733,
+      "end_offset": 1749,
+      "type": "shingle",
+      "position": 216,
+      "positionLength": 2
+    },
+    {
+      "token": "___ leading",
+      "start_offset": 1749,
+      "end_offset": 1756,
+      "type": "shingle",
+      "position": 217,
+      "positionLength": 2
+    },
+    {
+      "token": "leading",
+      "start_offset": 1749,
+      "end_offset": 1756,
+      "type": "<ALPHANUM>",
+      "position": 218
+    },
+    {
+      "token": "leading program",
+      "start_offset": 1749,
+      "end_offset": 1764,
+      "type": "shingle",
+      "position": 218,
+      "positionLength": 2
+    },
+    {
+      "token": "program",
+      "start_offset": 1757,
+      "end_offset": 1764,
+      "type": "<ALPHANUM>",
+      "position": 219
+    },
+    {
+      "token": "program interventions",
+      "start_offset": 1757,
+      "end_offset": 1778,
+      "type": "shingle",
+      "position": 219,
+      "positionLength": 2
+    },
+    {
+      "token": "interventions",
+      "start_offset": 1765,
+      "end_offset": 1778,
+      "type": "<ALPHANUM>",
+      "position": 220
+    },
+    {
+      "token": "interventions ___",
+      "start_offset": 1765,
+      "end_offset": 1782,
+      "type": "shingle",
+      "position": 220,
+      "positionLength": 2
+    },
+    {
+      "token": "___ help",
+      "start_offset": 1782,
+      "end_offset": 1786,
+      "type": "shingle",
+      "position": 221,
+      "positionLength": 2
+    },
+    {
+      "token": "help",
+      "start_offset": 1782,
+      "end_offset": 1786,
+      "type": "<ALPHANUM>",
+      "position": 222
+    },
+    {
+      "token": "help achieve",
+      "start_offset": 1782,
+      "end_offset": 1794,
+      "type": "shingle",
+      "position": 222,
+      "positionLength": 2
+    },
+    {
+      "token": "achieve",
+      "start_offset": 1787,
+      "end_offset": 1794,
+      "type": "<ALPHANUM>",
+      "position": 223
+    },
+    {
+      "token": "achieve our",
+      "start_offset": 1787,
+      "end_offset": 1798,
+      "type": "shingle",
+      "position": 223,
+      "positionLength": 2
+    },
+    {
+      "token": "our",
+      "start_offset": 1795,
+      "end_offset": 1798,
+      "type": "<ALPHANUM>",
+      "position": 224
+    },
+    {
+      "token": "our desired",
+      "start_offset": 1795,
+      "end_offset": 1806,
+      "type": "shingle",
+      "position": 224,
+      "positionLength": 2
+    },
+    {
+      "token": "desired",
+      "start_offset": 1799,
+      "end_offset": 1806,
+      "type": "<ALPHANUM>",
+      "position": 225
+    },
+    {
+      "token": "desired change",
+      "start_offset": 1799,
+      "end_offset": 1813,
+      "type": "shingle",
+      "position": 225,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1807,
+      "end_offset": 1813,
+      "type": "<ALPHANUM>",
+      "position": 226
+    },
+    {
+      "token": "change outcomes",
+      "start_offset": 1807,
+      "end_offset": 1822,
+      "type": "shingle",
+      "position": 226,
+      "positionLength": 2
+    },
+    {
+      "token": "outcomes",
+      "start_offset": 1814,
+      "end_offset": 1822,
+      "type": "<ALPHANUM>",
+      "position": 227
+    },
+    {
+      "token": "outcomes ___",
+      "start_offset": 1814,
+      "end_offset": 1828,
+      "type": "shingle",
+      "position": 227,
+      "positionLength": 2
+    },
+    {
+      "token": "___ providing",
+      "start_offset": 1828,
+      "end_offset": 1837,
+      "type": "shingle",
+      "position": 228,
+      "positionLength": 2
+    },
+    {
+      "token": "providing",
+      "start_offset": 1828,
+      "end_offset": 1837,
+      "type": "<ALPHANUM>",
+      "position": 229
+    },
+    {
+      "token": "providing change",
+      "start_offset": 1828,
+      "end_offset": 1844,
+      "type": "shingle",
+      "position": 229,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1838,
+      "end_offset": 1844,
+      "type": "<ALPHANUM>",
+      "position": 230
+    },
+    {
+      "token": "change sponsorship",
+      "start_offset": 1838,
+      "end_offset": 1856,
+      "type": "shingle",
+      "position": 230,
+      "positionLength": 2
+    },
+    {
+      "token": "sponsorship",
+      "start_offset": 1845,
+      "end_offset": 1856,
+      "type": "<ALPHANUM>",
+      "position": 231
+    },
+    {
+      "token": "sponsorship ___",
+      "start_offset": 1845,
+      "end_offset": 1860,
+      "type": "shingle",
+      "position": 231,
+      "positionLength": 2
+    },
+    {
+      "token": "___ required",
+      "start_offset": 1860,
+      "end_offset": 1868,
+      "type": "shingle",
+      "position": 232,
+      "positionLength": 2
+    },
+    {
+      "token": "required",
+      "start_offset": 1860,
+      "end_offset": 1868,
+      "type": "<ALPHANUM>",
+      "position": 233
+    },
+    {
+      "token": "required oversees",
+      "start_offset": 1860,
+      "end_offset": 1878,
+      "type": "shingle",
+      "position": 233,
+      "positionLength": 2
+    },
+    {
+      "token": "oversees",
+      "start_offset": 1870,
+      "end_offset": 1878,
+      "type": "<ALPHANUM>",
+      "position": 234
+    },
+    {
+      "token": "oversees coordinates",
+      "start_offset": 1870,
+      "end_offset": 1891,
+      "type": "shingle",
+      "position": 234,
+      "positionLength": 2
+    },
+    {
+      "token": "coordinates",
+      "start_offset": 1880,
+      "end_offset": 1891,
+      "type": "<ALPHANUM>",
+      "position": 235
+    },
+    {
+      "token": "coordinates ___",
+      "start_offset": 1880,
+      "end_offset": 1897,
+      "type": "shingle",
+      "position": 235,
+      "positionLength": 2
+    },
+    {
+      "token": "___ provides",
+      "start_offset": 1897,
+      "end_offset": 1905,
+      "type": "shingle",
+      "position": 236,
+      "positionLength": 2
+    },
+    {
+      "token": "provides",
+      "start_offset": 1897,
+      "end_offset": 1905,
+      "type": "<ALPHANUM>",
+      "position": 237
+    },
+    {
+      "token": "provides leadership",
+      "start_offset": 1897,
+      "end_offset": 1916,
+      "type": "shingle",
+      "position": 237,
+      "positionLength": 2
+    },
+    {
+      "token": "leadership",
+      "start_offset": 1906,
+      "end_offset": 1916,
+      "type": "<ALPHANUM>",
+      "position": 238
+    },
+    {
+      "token": "leadership ___",
+      "start_offset": 1906,
+      "end_offset": 1920,
+      "type": "shingle",
+      "position": 238,
+      "positionLength": 2
+    },
+    {
+      "token": "___ project",
+      "start_offset": 1920,
+      "end_offset": 1927,
+      "type": "shingle",
+      "position": 239,
+      "positionLength": 2
+    },
+    {
+      "token": "project",
+      "start_offset": 1920,
+      "end_offset": 1927,
+      "type": "<ALPHANUM>",
+      "position": 240
+    },
+    {
+      "token": "project team",
+      "start_offset": 1920,
+      "end_offset": 1932,
+      "type": "shingle",
+      "position": 240,
+      "positionLength": 2
+    },
+    {
+      "token": "team",
+      "start_offset": 1928,
+      "end_offset": 1932,
+      "type": "<ALPHANUM>",
+      "position": 241
+    },
+    {
+      "token": "team supporting",
+      "start_offset": 1928,
+      "end_offset": 1943,
+      "type": "shingle",
+      "position": 241,
+      "positionLength": 2
+    },
+    {
+      "token": "supporting",
+      "start_offset": 1933,
+      "end_offset": 1943,
+      "type": "<ALPHANUM>",
+      "position": 242
+    },
+    {
+      "token": "supporting change",
+      "start_offset": 1933,
+      "end_offset": 1950,
+      "type": "shingle",
+      "position": 242,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1944,
+      "end_offset": 1950,
+      "type": "<ALPHANUM>",
+      "position": 243
+    },
+    {
+      "token": "change initiatives",
+      "start_offset": 1944,
+      "end_offset": 1962,
+      "type": "shingle",
+      "position": 243,
+      "positionLength": 2
+    },
+    {
+      "token": "initiatives",
+      "start_offset": 1951,
+      "end_offset": 1962,
+      "type": "<ALPHANUM>",
+      "position": 244
+    },
+    {
+      "token": "initiatives establishing",
+      "start_offset": 1951,
+      "end_offset": 1976,
+      "type": "shingle",
+      "position": 244,
+      "positionLength": 2
+    },
+    {
+      "token": "establishing",
+      "start_offset": 1964,
+      "end_offset": 1976,
+      "type": "<ALPHANUM>",
+      "position": 245
+    },
+    {
+      "token": "establishing ___",
+      "start_offset": 1964,
+      "end_offset": 1981,
+      "type": "shingle",
+      "position": 245,
+      "positionLength": 2
+    },
+    {
+      "token": "___ measuring",
+      "start_offset": 1981,
+      "end_offset": 1990,
+      "type": "shingle",
+      "position": 246,
+      "positionLength": 2
+    },
+    {
+      "token": "measuring",
+      "start_offset": 1981,
+      "end_offset": 1990,
+      "type": "<ALPHANUM>",
+      "position": 247
+    },
+    {
+      "token": "measuring change",
+      "start_offset": 1981,
+      "end_offset": 1997,
+      "type": "shingle",
+      "position": 247,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 1991,
+      "end_offset": 1997,
+      "type": "<ALPHANUM>",
+      "position": 248
+    },
+    {
+      "token": "change key",
+      "start_offset": 1991,
+      "end_offset": 2001,
+      "type": "shingle",
+      "position": 248,
+      "positionLength": 2
+    },
+    {
+      "token": "key",
+      "start_offset": 1998,
+      "end_offset": 2001,
+      "type": "<ALPHANUM>",
+      "position": 249
+    },
+    {
+      "token": "key performance",
+      "start_offset": 1998,
+      "end_offset": 2013,
+      "type": "shingle",
+      "position": 249,
+      "positionLength": 2
+    },
+    {
+      "token": "performance",
+      "start_offset": 2002,
+      "end_offset": 2013,
+      "type": "<ALPHANUM>",
+      "position": 250
+    },
+    {
+      "token": "performance indicators",
+      "start_offset": 2002,
+      "end_offset": 2024,
+      "type": "shingle",
+      "position": 250,
+      "positionLength": 2
+    },
+    {
+      "token": "indicators",
+      "start_offset": 2014,
+      "end_offset": 2024,
+      "type": "<ALPHANUM>",
+      "position": 251
+    },
+    {
+      "token": "indicators ___",
+      "start_offset": 2014,
+      "end_offset": 2029,
+      "type": "shingle",
+      "position": 251,
+      "positionLength": 2
+    },
+    {
+      "token": "___ change",
+      "start_offset": 2029,
+      "end_offset": 2035,
+      "type": "shingle",
+      "position": 252,
+      "positionLength": 2
+    },
+    {
+      "token": "change",
+      "start_offset": 2029,
+      "end_offset": 2035,
+      "type": "<ALPHANUM>",
+      "position": 253
+    },
+    {
+      "token": "change programs",
+      "start_offset": 2029,
+      "end_offset": 2044,
+      "type": "shingle",
+      "position": 253,
+      "positionLength": 2
+    },
+    {
+      "token": "programs",
+      "start_offset": 2036,
+      "end_offset": 2044,
+      "type": "<ALPHANUM>",
+      "position": 254
+    },
+    {
+      "token": "programs ensuring",
+      "start_offset": 2036,
+      "end_offset": 2054,
+      "type": "shingle",
+      "position": 254,
+      "positionLength": 2
+    },
+    {
+      "token": "ensuring",
+      "start_offset": 2046,
+      "end_offset": 2054,
+      "type": "<ALPHANUM>",
+      "position": 255
+    },
+    {
+      "token": "ensuring consistency",
+      "start_offset": 2046,
+      "end_offset": 2066,
+      "type": "shingle",
+      "position": 255,
+      "positionLength": 2
+    },
+    {
+      "token": "consistency",
+      "start_offset": 2055,
+      "end_offset": 2066,
+      "type": "<ALPHANUM>",
+      "position": 256
+    },
+    {
+      "token": "consistency ___",
+      "start_offset": 2055,
+      "end_offset": 2070,
+      "type": "shingle",
+      "position": 256,
+      "positionLength": 2
+    },
+    {
+      "token": "___ messaging",
+      "start_offset": 2070,
+      "end_offset": 2079,
+      "type": "shingle",
+      "position": 257,
+      "positionLength": 2
+    },
+    {
+      "token": "messaging",
+      "start_offset": 2070,
+      "end_offset": 2079,
+      "type": "<ALPHANUM>",
+      "position": 258
+    },
+    {
+      "token": "messaging between",
+      "start_offset": 2070,
+      "end_offset": 2087,
+      "type": "shingle",
+      "position": 258,
+      "positionLength": 2
+    },
+    {
+      "token": "between",
+      "start_offset": 2080,
+      "end_offset": 2087,
+      "type": "<ALPHANUM>",
+      "position": 259
+    },
+    {
+      "token": "between multiple",
+      "start_offset": 2080,
+      "end_offset": 2096,
+      "type": "shingle",
+      "position": 259,
+      "positionLength": 2
+    },
+    {
+      "token": "multiple",
+      "start_offset": 2088,
+      "end_offset": 2096,
+      "type": "<ALPHANUM>",
+      "position": 260
+    },
+    {
+      "token": "multiple projects",
+      "start_offset": 2088,
+      "end_offset": 2105,
+      "type": "shingle",
+      "position": 260,
+      "positionLength": 2
+    },
+    {
+      "token": "projects",
+      "start_offset": 2097,
+      "end_offset": 2105,
+      "type": "<ALPHANUM>",
+      "position": 261
+    },
+    {
+      "token": "projects delivering",
+      "start_offset": 2097,
+      "end_offset": 2117,
+      "type": "shingle",
+      "position": 261,
+      "positionLength": 2
+    },
+    {
+      "token": "delivering",
+      "start_offset": 2107,
+      "end_offset": 2117,
+      "type": "<ALPHANUM>",
+      "position": 262
+    },
+    {
+      "token": "delivering clear",
+      "start_offset": 2107,
+      "end_offset": 2123,
+      "type": "shingle",
+      "position": 262,
+      "positionLength": 2
+    },
+    {
+      "token": "clear",
+      "start_offset": 2118,
+      "end_offset": 2123,
+      "type": "<ALPHANUM>",
+      "position": 263
+    },
+    {
+      "token": "clear direction",
+      "start_offset": 2118,
+      "end_offset": 2133,
+      "type": "shingle",
+      "position": 263,
+      "positionLength": 2
+    },
+    {
+      "token": "direction",
+      "start_offset": 2124,
+      "end_offset": 2133,
+      "type": "<ALPHANUM>",
+      "position": 264
+    },
+    {
+      "token": "direction ___",
+      "start_offset": 2124,
+      "end_offset": 2137,
+      "type": "shingle",
+      "position": 264,
+      "positionLength": 2
+    },
+    {
+      "token": "___ end",
+      "start_offset": 2137,
+      "end_offset": 2140,
+      "type": "shingle",
+      "position": 265,
+      "positionLength": 2
+    },
+    {
+      "token": "end",
+      "start_offset": 2137,
+      "end_offset": 2140,
+      "type": "<ALPHANUM>",
+      "position": 266
+    },
+    {
+      "token": "end users",
+      "start_offset": 2137,
+      "end_offset": 2146,
+      "type": "shingle",
+      "position": 266,
+      "positionLength": 2
+    },
+    {
+      "token": "users",
+      "start_offset": 2141,
+      "end_offset": 2146,
+      "type": "<ALPHANUM>",
+      "position": 267
+    },
+    {
+      "token": "users ___",
+      "start_offset": 2141,
+      "end_offset": 2152,
+      "type": "shingle",
+      "position": 267,
+      "positionLength": 2
+    },
+    {
+      "token": "___ example",
+      "start_offset": 2152,
+      "end_offset": 2159,
+      "type": "shingle",
+      "position": 268,
+      "positionLength": 2
+    },
+    {
+      "token": "example",
+      "start_offset": 2152,
+      "end_offset": 2159,
+      "type": "<ALPHANUM>",
+      "position": 269
+    },
+    {
+      "token": "example project",
+      "start_offset": 2152,
+      "end_offset": 2168,
+      "type": "shingle",
+      "position": 269,
+      "positionLength": 2
+    },
+    {
+      "token": "project",
+      "start_offset": 2161,
+      "end_offset": 2168,
+      "type": "<ALPHANUM>",
+      "position": 270
+    },
+    {
+      "token": "project team",
+      "start_offset": 2161,
+      "end_offset": 2173,
+      "type": "shingle",
+      "position": 270,
+      "positionLength": 2
+    },
+    {
+      "token": "team",
+      "start_offset": 2169,
+      "end_offset": 2173,
+      "type": "<ALPHANUM>",
+      "position": 271
+    },
+    {
+      "token": "team facility",
+      "start_offset": 2169,
+      "end_offset": 2183,
+      "type": "shingle",
+      "position": 271,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 2175,
+      "end_offset": 2183,
+      "type": "<ALPHANUM>",
+      "position": 272
+    },
+    {
+      "token": "facility leadership",
+      "start_offset": 2175,
+      "end_offset": 2194,
+      "type": "shingle",
+      "position": 272,
+      "positionLength": 2
+    },
+    {
+      "token": "leadership",
+      "start_offset": 2184,
+      "end_offset": 2194,
+      "type": "<ALPHANUM>",
+      "position": 273
+    },
+    {
+      "token": "leadership facility",
+      "start_offset": 2184,
+      "end_offset": 2204,
+      "type": "shingle",
+      "position": 273,
+      "positionLength": 2
+    },
+    {
+      "token": "facility",
+      "start_offset": 2196,
+      "end_offset": 2204,
+      "type": "<ALPHANUM>",
+      "position": 274
+    },
+    {
+      "token": "facility associate",
+      "start_offset": 2196,
+      "end_offset": 2214,
+      "type": "shingle",
+      "position": 274,
+      "positionLength": 2
+    },
+    {
+      "token": "associate",
+      "start_offset": 2205,
+      "end_offset": 2214,
+      "type": "<ALPHANUM>",
+      "position": 275
+    },
+    {
+      "token": "associate ___",
+      "start_offset": 2205,
+      "end_offset": 2221,
+      "type": "shingle",
+      "position": 275,
+      "positionLength": 2
+    },
+    {
+      "token": "___ managing",
+      "start_offset": 2221,
+      "end_offset": 2229,
+      "type": "shingle",
+      "position": 276,
+      "positionLength": 2
+    },
+    {
+      "token": "managing",
+      "start_offset": 2221,
+      "end_offset": 2229,
+      "type": "<ALPHANUM>",
+      "position": 277
+    },
+    {
+      "token": "managing site",
+      "start_offset": 2221,
+      "end_offset": 2234,
+      "type": "shingle",
+      "position": 277,
+      "positionLength": 2
+    },
+    {
+      "token": "site",
+      "start_offset": 2230,
+      "end_offset": 2234,
+      "type": "<ALPHANUM>",
+      "position": 278
+    },
+    {
+      "token": "site communications",
+      "start_offset": 2230,
+      "end_offset": 2249,
+      "type": "shingle",
+      "position": 278,
+      "positionLength": 2
+    },
+    {
+      "token": "communications",
+      "start_offset": 2235,
+      "end_offset": 2249,
+      "type": "<ALPHANUM>",
+      "position": 279
+    },
+    {
+      "token": "communications ___",
+      "start_offset": 2235,
+      "end_offset": 2254,
+      "type": "shingle",
+      "position": 279,
+      "positionLength": 2
+    },
+    {
+      "token": "___ developing",
+      "start_offset": 2254,
+      "end_offset": 2264,
+      "type": "shingle",
+      "position": 280,
+      "positionLength": 2
+    },
+    {
+      "token": "developing",
+      "start_offset": 2254,
+      "end_offset": 2264,
+      "type": "<ALPHANUM>",
+      "position": 281
+    },
+    {
+      "token": "developing ___",
+      "start_offset": 2254,
+      "end_offset": 2267,
+      "type": "shingle",
+      "position": 281,
+      "positionLength": 2
+    },
+    {
+      "token": "___ communication",
+      "start_offset": 2267,
+      "end_offset": 2280,
+      "type": "shingle",
+      "position": 282,
+      "positionLength": 2
+    },
+    {
+      "token": "communication",
+      "start_offset": 2267,
+      "end_offset": 2280,
+      "type": "<ALPHANUM>",
+      "position": 283
+    },
+    {
+      "token": "communication strategy",
+      "start_offset": 2267,
+      "end_offset": 2289,
+      "type": "shingle",
+      "position": 283,
+      "positionLength": 2
+    },
+    {
+      "token": "strategy",
+      "start_offset": 2281,
+      "end_offset": 2289,
+      "type": "<ALPHANUM>",
+      "position": 284
+    },
+    {
+      "token": "strategy ___",
+      "start_offset": 2281,
+      "end_offset": 2294,
+      "type": "shingle",
+      "position": 284,
+      "positionLength": 2
+    },
+    {
+      "token": "___ execution",
+      "start_offset": 2294,
+      "end_offset": 2303,
+      "type": "shingle",
+      "position": 285,
+      "positionLength": 2
+    },
+    {
+      "token": "execution",
+      "start_offset": 2294,
+      "end_offset": 2303,
+      "type": "<ALPHANUM>",
+      "position": 286
+    },
+    {
+      "token": "execution model",
+      "start_offset": 2294,
+      "end_offset": 2309,
+      "type": "shingle",
+      "position": 286,
+      "positionLength": 2
+    },
+    {
+      "token": "model",
+      "start_offset": 2304,
+      "end_offset": 2309,
+      "type": "<ALPHANUM>",
+      "position": 287
+    },
+    {
+      "token": "model provides",
+      "start_offset": 2304,
+      "end_offset": 2319,
+      "type": "shingle",
+      "position": 287,
+      "positionLength": 2
+    },
+    {
+      "token": "provides",
+      "start_offset": 2311,
+      "end_offset": 2319,
+      "type": "<ALPHANUM>",
+      "position": 288
+    },
+    {
+      "token": "provides supervision",
+      "start_offset": 2311,
+      "end_offset": 2331,
+      "type": "shingle",
+      "position": 288,
+      "positionLength": 2
+    },
+    {
+      "token": "supervision",
+      "start_offset": 2320,
+      "end_offset": 2331,
+      "type": "<ALPHANUM>",
+      "position": 289
+    },
+    {
+      "token": "supervision ___",
+      "start_offset": 2320,
+      "end_offset": 2336,
+      "type": "shingle",
+      "position": 289,
+      "positionLength": 2
+    },
+    {
+      "token": "___ development",
+      "start_offset": 2336,
+      "end_offset": 2347,
+      "type": "shingle",
+      "position": 290,
+      "positionLength": 2
+    },
+    {
+      "token": "development",
+      "start_offset": 2336,
+      "end_offset": 2347,
+      "type": "<ALPHANUM>",
+      "position": 291
+    },
+    {
+      "token": "development opportunities",
+      "start_offset": 2336,
+      "end_offset": 2361,
+      "type": "shingle",
+      "position": 291,
+      "positionLength": 2
+    },
+    {
+      "token": "opportunities",
+      "start_offset": 2348,
+      "end_offset": 2361,
+      "type": "<ALPHANUM>",
+      "position": 292
+    },
+    {
+      "token": "opportunities ___",
+      "start_offset": 2348,
+      "end_offset": 2366,
+      "type": "shingle",
+      "position": 292,
+      "positionLength": 2
+    },
+    {
+      "token": "___ associates",
+      "start_offset": 2366,
+      "end_offset": 2376,
+      "type": "shingle",
+      "position": 293,
+      "positionLength": 2
+    },
+    {
+      "token": "associates",
+      "start_offset": 2366,
+      "end_offset": 2376,
+      "type": "<ALPHANUM>",
+      "position": 294
+    },
+    {
+      "token": "associates supports",
+      "start_offset": 2366,
+      "end_offset": 2385,
+      "type": "shingle",
+      "position": 294,
+      "positionLength": 2
+    },
+    {
+      "token": "supports",
+      "start_offset": 2377,
+      "end_offset": 2385,
+      "type": "<ALPHANUM>",
+      "position": 295
+    },
+    {
+      "token": "supports associate",
+      "start_offset": 2377,
+      "end_offset": 2395,
+      "type": "shingle",
+      "position": 295,
+      "positionLength": 2
+    },
+    {
+      "token": "associate",
+      "start_offset": 2386,
+      "end_offset": 2395,
+      "type": "<ALPHANUM>",
+      "position": 296
+    },
+    {
+      "token": "associate engagement",
+      "start_offset": 2386,
+      "end_offset": 2406,
+      "type": "shingle",
+      "position": 296,
+      "positionLength": 2
+    },
+    {
+      "token": "engagement",
+      "start_offset": 2396,
+      "end_offset": 2406,
+      "type": "<ALPHANUM>",
+      "position": 297
+    }
+  ]
+}
