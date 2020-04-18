@@ -1,3 +1,4 @@
+--- 1 ---
 change x 11
 training x 11
 facility x 7
@@ -146,8 +147,8 @@ model x 1
 supervision x 1
 opportunities x 1
 engagement x 1
-----
 
+--- 2 ---
 training programs x 4
 change initiatives x 3
 facility leadership x 2
@@ -156,238 +157,238 @@ facility level x 2
 change programs x 2
 project team x 2
 active member x 1
-facility leadership team x 1
 leadership team x 1
-leadership team sharing x 1
 team sharing x 1
-team sharing knowledge x 1
 sharing knowledge x 1
-sharing knowledge expertise x 1
 knowledge expertise x 1
 develop others x 1
-develop others leveraging x 1
 others leveraging x 1
-others leveraging involvement x 1
 leveraging involvement x 1
 operations programs x 1
 drive change x 1
-drive change initiatives x 1
-change initiatives through x 1
 initiatives through x 1
-initiatives through modeling x 1
 through modeling x 1
-through modeling appropriate x 1
 modeling appropriate x 1
-modeling appropriate change x 1
 appropriate change x 1
-appropriate change management x 1
-change management behaviors x 1
 management behaviors x 1
 engaging program x 1
-engaging program teams x 1
 program teams x 1
-change management process x 1
 management process x 1
-management process coordinates x 1
 process coordinates x 1
-process coordinates training x 1
 coordinates training x 1
-coordinates training programs x 1
-training programs utilizing x 1
 programs utilizing x 1
 maintaining training x 1
-maintaining training materials x 1
 training materials x 1
-training materials leveraging x 1
 materials leveraging x 1
-materials leveraging associate x 1
 leveraging associate x 1
-leveraging associate expertise x 1
 associate expertise x 1
 facility supporting x 1
-facility supporting quality x 1
 supporting quality x 1
-supporting quality safety x 1
 quality safety x 1
 human resources x 1
-human resources teams x 1
 resources teams x 1
 meeting training x 1
-meeting training requirements x 1
 training requirements x 1
-training requirements coordinates x 1
 requirements coordinates x 1
 home office x 1
-home office level x 1
 office level x 1
-office level associates x 1
 level associates x 1
 implement corporate x 1
-implement corporate initiatives x 1
 corporate initiatives x 1
-corporate initiatives coordinates x 1
 initiatives coordinates x 1
-initiatives coordinates completes x 1
 coordinates completes x 1
 oversees job x 1
-oversees job related x 1
 job related x 1
-job related activities x 1
 related activities x 1
 assignments ensures x 1
-assignments ensures compliance x 1
 ensures compliance x 1
 company policies x 1
 supports company x 1
-supports company mission x 1
 company mission x 1
-company mission values x 1
 mission values x 1
 integrity guides x 1
 leadership development x 1
-leadership development process x 1
 development process x 1
-development process across x 1
 process across x 1
 facility managing x 1
 hourly associate x 1
-hourly associate training x 1
 associate training x 1
-associate training programs x 1
 example lead x 1
-example lead program x 1
 lead program x 1
-lead program assessing x 1
 program assessing x 1
 calibrating training x 1
-calibrating training programs x 1
 determine training x 1
-determine training effectiveness x 1
 training effectiveness x 1
-training effectiveness ensuring x 1
 effectiveness ensuring x 1
-effectiveness ensuring required x 1
 ensuring required x 1
-ensuring required training x 1
 required training x 1
 scheduled working x 1
 implementation managers x 1
 overall training x 1
-overall training strategy x 1
 training strategy x 1
 delivered implements x 1
-delivered implements training x 1
 implements training x 1
-implements training programs x 1
-facility level participates x 1
 level participates x 1
 functional divisional x 1
-functional divisional training x 1
 divisional training x 1
-divisional training network x 1
 training network x 1
 other facilities x 1
 determine current x 1
-determine current best x 1
 current best x 1
-current best practices x 1
 best practices x 1
 share learnings x 1
-share learnings manages x 1
 learnings manages x 1
-learnings manages execution x 1
 manages execution x 1
 delivery across x 1
 assigned incorporating x 1
 initial change x 1
-initial change impact x 1
 change impact x 1
-change impact assessment x 1
 impact assessment x 1
-impact assessment results x 1
 assessment results x 1
 program delivery x 1
-program delivery plans x 1
 delivery plans x 1
-delivery plans ensuring x 1
 plans ensuring x 1
-plans ensuring stakeholder x 1
 ensuring stakeholder x 1
-ensuring stakeholder alignment x 1
 stakeholder alignment x 1
-stakeholder alignment communicating x 1
 alignment communicating x 1
-alignment communicating change x 1
 communicating change x 1
-communicating change initiatives x 1
 leading program x 1
-leading program interventions x 1
 program interventions x 1
 help achieve x 1
 desired change x 1
-desired change outcomes x 1
 change outcomes x 1
 providing change x 1
-providing change sponsorship x 1
 change sponsorship x 1
 required oversees x 1
-required oversees coordinates x 1
 oversees coordinates x 1
 provides leadership x 1
-project team supporting x 1
 team supporting x 1
-team supporting change x 1
 supporting change x 1
-supporting change initiatives x 1
-change initiatives establishing x 1
 initiatives establishing x 1
 measuring change x 1
-measuring change key x 1
 change key x 1
-change key performance x 1
 key performance x 1
-key performance indicators x 1
 performance indicators x 1
-change programs ensuring x 1
 programs ensuring x 1
-programs ensuring consistency x 1
 ensuring consistency x 1
 messaging between x 1
-messaging between multiple x 1
 between multiple x 1
-between multiple projects x 1
 multiple projects x 1
-multiple projects delivering x 1
 projects delivering x 1
-projects delivering clear x 1
 delivering clear x 1
-delivering clear direction x 1
 clear direction x 1
 end users x 1
 example project x 1
-example project team x 1
-project team facility x 1
 team facility x 1
-team facility leadership x 1
-facility leadership facility x 1
 leadership facility x 1
-leadership facility associate x 1
 facility associate x 1
 managing site x 1
-managing site communications x 1
 site communications x 1
 communication strategy x 1
 execution model x 1
-execution model provides x 1
 model provides x 1
-model provides supervision x 1
 provides supervision x 1
 development opportunities x 1
 associates supports x 1
-associates supports associate x 1
 supports associate x 1
-supports associate engagement x 1
 associate engagement x 1
-----
 
-Press any key to continue . . .
+--- 3 ---
+facility leadership team x 1
+leadership team sharing x 1
+team sharing knowledge x 1
+sharing knowledge expertise x 1
+develop others leveraging x 1
+others leveraging involvement x 1
+drive change initiatives x 1
+change initiatives through x 1
+initiatives through modeling x 1
+through modeling appropriate x 1
+modeling appropriate change x 1
+appropriate change management x 1
+change management behaviors x 1
+engaging program teams x 1
+change management process x 1
+management process coordinates x 1
+process coordinates training x 1
+coordinates training programs x 1
+training programs utilizing x 1
+maintaining training materials x 1
+training materials leveraging x 1
+materials leveraging associate x 1
+leveraging associate expertise x 1
+facility supporting quality x 1
+supporting quality safety x 1
+human resources teams x 1
+meeting training requirements x 1
+training requirements coordinates x 1
+home office level x 1
+office level associates x 1
+implement corporate initiatives x 1
+corporate initiatives coordinates x 1
+initiatives coordinates completes x 1
+oversees job related x 1
+job related activities x 1
+assignments ensures compliance x 1
+supports company mission x 1
+company mission values x 1
+leadership development process x 1
+development process across x 1
+hourly associate training x 1
+associate training programs x 1
+example lead program x 1
+lead program assessing x 1
+calibrating training programs x 1
+determine training effectiveness x 1
+training effectiveness ensuring x 1
+effectiveness ensuring required x 1
+ensuring required training x 1
+overall training strategy x 1
+delivered implements training x 1
+implements training programs x 1
+facility level participates x 1
+functional divisional training x 1
+divisional training network x 1
+determine current best x 1
+current best practices x 1
+share learnings manages x 1
+learnings manages execution x 1
+initial change impact x 1
+change impact assessment x 1
+impact assessment results x 1
+program delivery plans x 1
+delivery plans ensuring x 1
+plans ensuring stakeholder x 1
+ensuring stakeholder alignment x 1
+stakeholder alignment communicating x 1
+alignment communicating change x 1
+communicating change initiatives x 1
+leading program interventions x 1
+desired change outcomes x 1
+providing change sponsorship x 1
+required oversees coordinates x 1
+project team supporting x 1
+team supporting change x 1
+supporting change initiatives x 1
+change initiatives establishing x 1
+measuring change key x 1
+change key performance x 1
+key performance indicators x 1
+change programs ensuring x 1
+programs ensuring consistency x 1
+messaging between multiple x 1
+between multiple projects x 1
+multiple projects delivering x 1
+projects delivering clear x 1
+delivering clear direction x 1
+example project team x 1
+project team facility x 1
+team facility leadership x 1
+facility leadership facility x 1
+leadership facility associate x 1
+managing site communications x 1
+execution model provides x 1
+model provides supervision x 1
+associates supports associate x 1
+supports associate engagement x 1
+
